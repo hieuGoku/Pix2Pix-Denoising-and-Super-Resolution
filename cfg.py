@@ -1,0 +1,10 @@
+data_train = '/content/data/image_2/*'
+data_test = '/content/data/image_3/*'
+checkpoint_dir = '/content/drive/MyDrive/Work_Share/Pix2Pix_Denoising_and_Super_Resolution/checkpoint'
+buffer_size = 20
+batch_size = 1
+img_height = 256
+img_width = 1024
+low_height = 64
+low_width = 256
+epochs = 150
